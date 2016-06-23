@@ -1,0 +1,56 @@
+@CHARSET "ISO-8859-1";
+.nav a {
+  color: #ffffff;
+  font-size: 11px;
+  font-weight: bold;
+  padding: 14px 10px;
+  text-transform: uppercase;
+}
+
+.nav li {
+  display: inline;
+}
+
+.vr {
+    width:0.5px;
+    background-color:#d4d4d4;
+    position:absolute;
+    top:150px;
+    bottom:10px;
+    left:290px;
+}
+
+.learn-more {
+  background-color: #d4d4d4;
+  top:300px;
+}
+
+.learn-more h3 {
+  font-family: 'Shift', sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.learn-more a {
+  color: #00b0ff;
+}
+
+.areas {
+    width: 22%;
+    padding: 12px 20px;
+    margin: 9px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+.bg {
+    width: 10%;
+    padding: 12px 20px;
+    margin: 9px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}

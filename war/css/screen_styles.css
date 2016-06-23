@@ -1,0 +1,61 @@
+@charset "UTF-8";
+
+/* Global Styles */
+
+body {
+	/*color: #575c7a;*/
+	line-height: 1.5em;
+	font-family: Arial;
+	font-size: 14px;
+	/*background: #515673 url(../images/savelife.jpg) repeat-x 0px 0px;*/
+}
+.page {
+	max-width: 980px;
+	margin: 0px auto;
+	position: relative; background-color: #fff;
+	
+}
+header{
+	border: 1px solid brown;
+}
+
+
+
+h1 { 
+color: #a6430a; 
+margin: 0em 0em .5em 0em; 
+font-size: 2em; 
+font-weight: normal; 
+}
+
+h2 { 
+font-size: 20px; 
+margin: 0em 0em 1em 0em; 
+}
+
+h3 { 
+font-size: 1.5em; 
+margin: 0em 0em 1em 0em; 
+}
+
+p { 
+margin: 0px 0px 1em 0px; 
+}
+
+
+
+footer { 
+font-size: .85em; color: #9ba0bd; 
+background-color: #515673; 
+padding: 10px 10px 10px 0px; 
+}
+
+
+
+.clear-fix 
+{ clear: both; 
+line-height: 1px; 
+}
+
+
+
